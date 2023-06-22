@@ -1,0 +1,7 @@
+Name = str(input("Enter your name:"))
+
+print("Nice to meet you,",Name,)
+
+Subject = str(input("What is your favourite subject?"))
+
+print("I like",Subject,"too.")
