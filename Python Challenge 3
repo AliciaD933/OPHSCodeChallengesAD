@@ -1,0 +1,6 @@
+Width = float(input("Enter the width:"))
+Length = float(input("Enter the length:"))
+
+Ans = Width * Length
+
+print(Ans)
