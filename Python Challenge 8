@@ -1,0 +1,10 @@
+Mark = int(input("Enter your mark:"))
+
+if Mark >= 75:
+  print("A")
+elif Mark >= 60:
+  print("B")
+elif Mark >= 35:
+  print("C")
+else:
+  print("D")
