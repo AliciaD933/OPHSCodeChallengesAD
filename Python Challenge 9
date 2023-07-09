@@ -1,0 +1,6 @@
+Ans = str(input("Enter one of the Olympic Values:"))
+
+if Ans == "Respect" or Ans == "Excellence" or Ans == "Friendship":
+  print("That's correct.")
+else:
+  print("Try again.")
